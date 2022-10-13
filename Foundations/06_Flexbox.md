@@ -1,0 +1,1 @@
+flex: 1 equates to: flex-grow: 1, flex-shrink: 1, flex-basis: 0.
